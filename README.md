@@ -27,6 +27,13 @@ Once the installation and configuration steps have been completed, the Kerberos 
 - A client attempting to access a server with an incorrect password.
 - A client attempting to access a server with a valid Kerberos ticket, but not authorized to access the requested resource.
 
+## Contact information :
+- [Facebook](https://www.facebook.com/profile.php?id=100082569926842)
+- [Twitter](https://twitter.com/HamzaAchahboun3)
+- [LinkedIn](https://www.linkedin.com/in/achahboune-hamza/)
+- [Redit](https://www.reddit.com/user/HamzaVerde)
+- [Youtube](https://www.youtube.com/channel/UCVIOkzY9OijnUJ-daoZsXqw)
+
 ## Credits
 This project was developed by Hamza Achahboune, as part of Security course at EMSI Tangier. 
 
