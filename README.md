@@ -5,6 +5,7 @@
 This project is aimed at implementing the Kerberos authentication protocol in a networked environment. The implementation involves setting up a Key Distribution Center (KDC) and configuring clients and servers to use the KDC for authentication.
 
 ##Project Architecture 
+
 ![](/Image/Architecure.png)
 
 ## Installation
